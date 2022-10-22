@@ -2,7 +2,7 @@
 
 - 📓 Estudando sobre Data Science.
 - 📓 Interesse em explorar a área de automação.
-- 📓 Conhecimento em Python.
+- 📓 Conhecimento em Python, aprendendo C.
 
 <div align="center">
   <a href="https://github.com/ag2matheus">

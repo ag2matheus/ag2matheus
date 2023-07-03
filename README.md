@@ -1,8 +1,4 @@
-## Seja bem vindo ao meu perfil! 🚀
-
-- 📓 Atualmente estudo Data Science e tenho interesse em explorar a área de automação.
-- 📓 Programo em Python, e estou aprendendo C.
-- 📓 Neste perfil se encontra projetos pessoais e alguns projetos e exercícios desenvolvidos durante cursos.
+## Welcome! 🚀
 
 <div align="center">
   <a href="https://github.com/ag2matheus">
